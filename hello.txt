@@ -1,5 +1,5 @@
 Hello from the main branch
 
-Add feature-b (WIP)
+Add feature-b
 
 new code that makes feature-b work! 
